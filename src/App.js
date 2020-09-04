@@ -21,6 +21,11 @@ export default class App extends Component {
     console.log();
   };
 
+  handleChanges = (result) => {
+    console.log();
+  };
+
+
   handleSubmit = (result) => {
     console.log();
   };
